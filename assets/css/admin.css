@@ -1,0 +1,22 @@
+/* 
+
+admin.css
+contents:
+		
+	1. Admin CSS Tweaks
+
+*/
+
+/* 1. Admin CSS Tweaks
+--------------------------------------------------------------------------------------- */
+
+.form-table
+	{
+	margin-bottom: 20px;
+	}
+
+.submit
+	{
+	position: relative;
+	top: -20px;
+	}

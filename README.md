@@ -18,9 +18,12 @@ We hope the plugin is flexible enough to accommodate your own MailChimp lists bu
 
 * Your MailChimp API key
 * Your MailChimp List ID
-* A custom POSTCODE field
+* A custom POSTCODE field in your MailChimp subscriber list
+* A custom ORGANISATION field in your MailChimp subscriber list
 
 There is a 150000 subscriber list limit.
+
+Help support development by [purchasing this plugin](https://gumroad.com/l/people-place).
 
 ## Attention!
 
@@ -38,9 +41,9 @@ To install this plugin:
 
 ## Usage
 
-Head to "Settings -> MailChimp Sync" in your WordPress dashboard and enter your API details. You can also setup a manual cron job (if WordPress cron fail to work) by entering a secret key for manual cron. This will disable WordPress cron. The URL to ping is:
+Head to "Settings -> MailChimp Sync" in your WordPress dashboard and enter your API details. You can also setup a manual cron job (if WordPress cron fails to work) by entering a secret key for manual cron. This will disable WordPress cron. The URL to ping is:
 
-http://yoursite.com/?mailchimp_key=secretkey
+http://yoursite.com/?pps_key=secretkey
 
 ## Changelog
 

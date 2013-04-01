@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EU Cookie Muncher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-06 17:20-0000\n"
+"PO-Revision-Date: 2013-02-06 17:20-0000\n"
+"Last-Translator: Scott Evans <translate@scott.ee>\n"
+"Language-Team: @scottsweb <translate@scott.ee>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: /Users/scott/Dropbox/web/framework-wordpress/wp-content/"
+"plugins/people-place/\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: /Users/scott/Dropbox/web/framework-wordpress/wp-"
+"content/plugins/people-place\n"
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:48
+msgid "Settings"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:49
+msgid "Support"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:50
+msgid "Twitter"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:66
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:143
+msgid "Place Name"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:67
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:107
+msgid "Postcode"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:68
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:14
+msgid "Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/admin.php:94
+msgid "-"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:13
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:29
+msgid "Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:15
+msgid "Search Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:16
+msgid "Popular Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:17
+msgid "All Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:18
+msgid "Parent Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:19
+msgid "Edit Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:20
+msgid "Update Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:21
+msgid "Add New Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:22
+msgid "New Category"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:23
+msgid "Separate categories with commas"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:24
+msgid "Add or remove Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:25
+msgid "Choose from most used Categories"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:43
+msgid "People Place"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:44
+msgid "Place"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:45
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:46
+msgid "Add Place"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:47
+msgid "Edit Place"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:48
+msgid "New Place"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:49
+msgid "View"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:50
+msgid "Search Places"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:51
+msgid "No place found"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:52
+msgid "No places found in Trash"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:54
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:59
+msgid "Places"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:81
+msgid "Meta"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:90
+msgid "Icon (square .png)"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:97
+msgid "Detail"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/post-type.php:108
+msgid "URL"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/shortcode.php:76
+msgid "Individuals"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/inc/shortcode.php:77
+msgid "Organisations"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/class-usage-demo.php:138
+msgid "Enable conditinal fields? "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/class-usage-demo.php:139
+msgid ""
+"<small>Turn ON if you want to enable the <strong>conditinal fields</strong>."
+"</small>"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:292
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:292
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:910
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:250
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:393
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:623
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:668
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:582
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:635
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:905
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:917
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:923
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/metabox/meta-box-class/my-meta-box-class.php:976
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/Tax-meta-class/Tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:42
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:73
+msgid "My Text "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:44
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:74
+msgid "My Textarea "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:46
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:75
+msgid "My Checkbox "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:48
+msgid "My select "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:50
+msgid "My Radio Filed"
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:52
+msgid "My Date "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:54
+msgid "My Time "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:56
+msgid "My Color "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:58
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:76
+msgid "My Image "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:60
+msgid "My File "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:62
+msgid "My wysiwyg Editor "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:64
+msgid "My Taxonomy "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:66
+msgid "My Posts "
+msgstr ""
+
+#: /Users/scott/Dropbox/web/framework-wordpress/wp-content/plugins/people-place/assets/lib/tax-metabox/class-usage-demo.php:82
+msgid "This is a Repeater Block"
+msgstr ""
