@@ -1,4 +1,4 @@
-## People-Place
+## People-Place-Sync
 
 * Plugin Name: People Place Sync
 * Plugin URI: [github.com/CreativePeoplePlace/People-Place-Sync](https://github.com/CreativePeoplePlace/People-Place-Sync)
@@ -18,8 +18,9 @@ We hope the plugin is flexible enough to accommodate your own MailChimp lists bu
 
 * Your MailChimp API key
 * Your MailChimp List ID
-* A custom POSTCODE field in your MailChimp subscriber list
-* A custom ORGANISATION field in your MailChimp subscriber list
+* A custom Postcode field with a field ID of `POSTCODE` in your MailChimp subscriber list
+* A custom Organisation field with a field ID of `ORGANISATI` in your MailChimp subscriber list
+* A custom URL field with a field ID of `URL` in your MailChimp subscriber list
 
 There is a 150000 subscriber list limit.
 

@@ -142,7 +142,6 @@ function pps_mailchimp_api_call() {
 				
 					$existing->the_post();
 					$post['ID'] = get_the_ID();
-					$post['post_status'] = get_post_status();
 					$post_id = wp_update_post($post);
 
 				// else insert it				
@@ -175,6 +174,10 @@ function pps_mailchimp_api_call() {
 				} else {
 					//update_post_meta($post_id, '_pp_type', 'organisation');
 					wp_set_object_terms($post_id, array('organisation'), 'pp_category', false);
+				}
+
+				if ($member_details['data'][0]['merges']['URL'] != '') {
+					update_post_meta($post_id, '_pp_url', $member_details['data'][0]['merges']['URL']);
 				}
 			}
 			
