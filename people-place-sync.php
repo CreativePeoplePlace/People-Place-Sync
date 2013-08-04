@@ -314,6 +314,8 @@ function pps_admin_styles_scripts($hook) {
 
 	global $pagenow, $post_type;
 
+	if (!isset($_GET['page'])) return;
+
 	// custom admin css
 	if ($pagenow == 'options-general.php' && $_GET['page'] == 'pps_options') {
 		wp_register_style('pps-admin', PPS_CSS_URL . '/admin.css', filemtime(PPS_PATH . '/assets/css/admin.css'));
