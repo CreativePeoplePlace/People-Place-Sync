@@ -150,7 +150,7 @@ function pps_mailchimp_api_call() {
 					$post_id = wp_insert_post( $post );
 				
 				}
-			
+				
 		    	if ($member_details['data'][0]['merges']['POSTCODE'] != '') {
 			    	
 			    	$postcode = $member_details['data'][0]['merges']['POSTCODE']; 
@@ -168,6 +168,7 @@ function pps_mailchimp_api_call() {
 			    	}
 		    	}
 				
+				// assign a category
 				if ($member_details['data'][0]['merges']['ORGANISATI'] == '') {
 					//update_post_meta($post_id, '_pp_type', 'individual');				
 					wp_set_object_terms($post_id, array('individual'), 'pp_category', false);
@@ -176,8 +177,16 @@ function pps_mailchimp_api_call() {
 					wp_set_object_terms($post_id, array('organisation'), 'pp_category', false);
 				}
 
+				// have they added a URL?
 				if ($member_details['data'][0]['merges']['URL'] != '') {
 					update_post_meta($post_id, '_pp_url', $member_details['data'][0]['merges']['URL']);
+				}
+
+				// is this member involved in voluntary activity
+				if ($member_details['data'][0]['merges']['GROUPINGS'][0]['groups']) {
+					update_post_meta($post_id, '_pp_voluntary', 1);
+				} else {
+					update_post_meta($post_id, '_pp_voluntary', 0);
 				}
 			}
 			
