@@ -8,7 +8,7 @@
 	Plugin URI: https://gumroad.com/l/people-place
 	Description: Sync a MailChimp subscriber list with the People Place Plugin
 	Author: Community Powered
-	Version: 1.0
+	Version: 1.1
 	Author URI: http://creativepeopleplace.info
 
  */

@@ -4,7 +4,7 @@
 * Plugin URI: [github.com/CreativePeoplePlace/People-Place-Sync](https://github.com/CreativePeoplePlace/People-Place-Sync)
 * Description: Sync a MailChimp subscriber list with the People Place Plugin
 * Author: Community Powered
-* Version: 1.0
+* Version: 1.1
 * Author URI: [creativepeoplepace.info](http://creativepeopleplace.info)
 * License: GNU General Public License v2.0
 * License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
@@ -47,6 +47,9 @@ Head to "Settings -> MailChimp Sync" in your WordPress dashboard and enter your 
 http://yoursite.com/?pps_key=secretkey
 
 ## Changelog
+
+#### 1.1
+* Add support for syncing voluntary activity
 
 #### 1.0
 * Uploaded to Github - this should be considered an alpha release
